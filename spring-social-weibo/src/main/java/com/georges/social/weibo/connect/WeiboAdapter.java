@@ -44,7 +44,7 @@ public class WeiboAdapter implements ApiAdapter<Weibo> {
 	}
 
 	public void updateStatus(Weibo weibo, String message) {
-	//TODO:update status to Weibo
+	//TODO:update status to Weibo 
 	}
 
 }
